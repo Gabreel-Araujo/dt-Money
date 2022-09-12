@@ -2,7 +2,7 @@
   "name": "dtmoney",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Gabreel-Araujo/dt-Money",
+  "homepage": "github-page",
   "dependencies": {
     "axios": "^0.27.2",
     "miragejs": "^0.1.45",
